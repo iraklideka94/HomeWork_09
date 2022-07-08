@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork_09</string>
+    <string name="add_btn">add_btn</string>
+    <string name="email">Email</string>
+    <string name="lastname">Lastname</string>
+    <string name="name">Name</string>
+    <string name="add_the_user_information">Add the User Information</string>
+</resources>
